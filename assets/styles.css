@@ -48,4 +48,14 @@ table.month thead tr:nth-child(2) th:last-child
 {
   color: #f75c90;
 }
+.calendar table.month td.day .day-content
+{
+  padding: 6px 8px;
+}
+.calendar table.month th.day-header
+{
+  color: #777;
+  font-size: 0.9em;
+  font-weight: 700;
+}
 /* end of content styles */
