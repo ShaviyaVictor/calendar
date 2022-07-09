@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
 /* font-family: 'Quicksand', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&display=swap');
+/* font-family: 'Dancing Script', cursive; */
 
 
 /* start of global styles */
@@ -31,5 +33,12 @@ body
   padding: 20px;
   min-width: 250px;
   box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.2);
+}
+.calendar table.month th.month-title
+{
+  color: #5a8990;
+  font-size: 1.9em;
+  font-weight: 200;
+  font-family: 'Dancing Script', cursive;
 }
 /* end of content styles */
