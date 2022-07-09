@@ -41,4 +41,11 @@ body
   font-weight: 200;
   font-family: 'Dancing Script', cursive;
 }
+.calendar table.month td:first-child, 
+.calendar table.month td:last-child,
+table.month thead tr:nth-child(2) th:first-child,
+table.month thead tr:nth-child(2) th:last-child
+{
+  color: #f75c90;
+}
 /* end of content styles */
