@@ -2,7 +2,7 @@
 /* font-family: 'Quicksand', sans-serif; */
 
 
-
+/* start of global styles */
 *
 {
   margin: 0;
@@ -10,3 +10,26 @@
   box-sizing: border-box;
   font-family: 'Quicksand', sans-serif;
 }
+body
+{
+  background: #f1fbff;
+}
+/* end of global styles */
+/* start of content styles */
+.calendar
+{
+  padding: 20px 40px;
+}
+.months-container
+{
+  justify-content: center;
+  gap: 40px;
+}
+.calendar .months-container .month-container
+{
+  background: #fff;
+  padding: 20px;
+  min-width: 250px;
+  box-shadow: 15px 15px 40px rgba(0, 0, 0, 0.2);
+}
+/* end of content styles */
