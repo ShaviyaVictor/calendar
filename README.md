@@ -1,7 +1,7 @@
 # calendar
 A web calendar application made for practice purposes.
           
-<img src="#" width="600" height="350" alt="">             
+<img src="https://github.com/ShaviyaVictor/calendar/blob/main/assets/images/calendar.png" width="700" height="350" alt="">             
 
 ## Built With
 
@@ -20,15 +20,15 @@ You can get the widget using the following methods:
 - From the [GitHub repository](https://github.com/year-calendar/js-year-calendar/releases)
 - From the Node package manager, using the following command: `npm install js-year-calendar`
 - From Yarn, using the following command: `yarn add js-year-calendar`
-- From the **CDN**, by adding the following script directly in your HTML page               
+- From the **CDN**, by adding the following script directly in your HTML page
 - - just before closing the body tag:
 
-`<script src="https://unpkg.com/js-year-calendar@latest/dist/js-year-calendar.min.js"></script>`
+```<script src="https://unpkg.com/js-year-calendar@latest/dist/js-year-calendar.min.js"></script>```
 
-AND             
+AND
 - - just before the custom styles link tag in the header:
 
-`<link rel="stylesheet" type="text/css" href="https://unpkg.com/js-year-calendar@latest/dist/js-year-calendar.min.css" />`
+```<link rel="stylesheet" type="text/css" href="https://unpkg.com/js-year-calendar@latest/dist/js-year-calendar.min.css" />```
 
 ## Usage
 
