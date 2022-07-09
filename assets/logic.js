@@ -4,7 +4,6 @@
 //   minDate: new Date()
 // })
 
-
 new Calendar(
   document.querySelector('.calendar')
   );
