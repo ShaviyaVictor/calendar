@@ -23,12 +23,16 @@ You can get the widget using the following methods:
 - From the **CDN**, by adding the following script directly in your HTML page
 - - just before closing the body tag:
 
-```<script src="https://unpkg.com/js-year-calendar@latest/dist/js-year-calendar.min.js"></script>```
+```
+<script src="https://unpkg.com/js-year-calendar@latest/dist/js-year-calendar.min.js"></script>
+```
 
 AND
 - - just before the custom styles link tag in the header:
 
-```<link rel="stylesheet" type="text/css" href="https://unpkg.com/js-year-calendar@latest/dist/js-year-calendar.min.css" />```
+```
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/js-year-calendar@latest/dist/js-year-calendar.min.css" />
+```
 
 ## Usage
 
