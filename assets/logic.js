@@ -1,4 +1,4 @@
-//  23rd consecutive day of visiting StackOverFlow 
+//  24th consecutive day of visiting StackOverFlow 
 //  Thinking of creating a journal to help keep track of my GitHub consistency!!!
 //  Goal 1: Hit the 30th mark for the Silver Badge
 //  Goal 2: Hit the 100th mark for the Gold Badge
