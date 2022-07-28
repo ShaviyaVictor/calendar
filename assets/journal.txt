@@ -3,6 +3,11 @@
 - Another day in the office, today I have like 5 sessions and 2 tasks to complete and could proably get an additional one for IVR.
 When I am afraid, I put my trust in the Lord.
 Afterall, faith drives away fear and fear drives away faith!
+- Just started my 2hr meeting for Production Deployment for Subscription Service that is to go support Disney Apps.
+For the Replace null with Account number story task that I am working jointly with Shemar Brown-Write, 
+we've hit rock-bottom with Brown saying it's now gotten to a place where we are looking for a pin in a hay-stack.
+- Just had a session with Luigi for our first IVR task. And I must say I've learnt quite some stuff that has now been cemented give the fact that he's worked on Spring Boot projects before.
+- Now somehow comfortable to take on a story by myself.
 
 ### 27/07/2022
 .
