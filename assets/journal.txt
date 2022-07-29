@@ -4,6 +4,9 @@
 - Log4j migration should be done by end of day and know a way forward for the SIF null->account number task with Brown-Wryte and finish or at least do something with Luigi for the PrankCaller task for IVR team
 - Today is Downtown chill day.
 - The Deployment CD setup for Disney is a whole freaking process. Can blow your mind off for sure! We are having our third 2.5hr session today.
+- The 2.5hr session has been cancelled. We are to work on our respective tasks. For the SIF null->account number task, I let it be for now and I embark on the Log4j task with an aim to have it completed by close of business today. Will be working on it with a couple of branches then push the final tested branch over for review and delete the other branches.
+- So after today, the next day of work is on Tuesday since August 1st is a public holiday here:- Emancipation Day(a day when Slavery got abolished and hence the Jamaicans got freed from slavery) followed by August 6th when they now got total freedom. This is according to Tarique, my friend. And he really appreciates these stuff as well as Africans and would love to visit Africa one day(West Africa) I pray the Lord help him have that accomplished.
+- Onto my task now.
 
 .*.
 .*.
