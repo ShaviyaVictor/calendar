@@ -9,6 +9,8 @@
 - Onto my task now.
 - This task that am working on is one that was worked upon by Ryan Whyte ((Log4j migration to Log4j2 for service-selfcare-SIF)). But the approach he used didn't work with me in my first task. I even tend to think that is why his PR wasn't approved. I hope I get it done and working as expected. God help me please.
 - Today, being a Friday, I went for lunch with Jos and paid for her lunch. Always wanted to that for her, so am grateful to the Almighty Lord for enabling me do that.
+- And it is the start of the weekend. It even started at work @3pm, people had already started with stories and chants waiting for 4pm to leave for home. What a culture, Jos texts me at around 4:17pm already done for the day, whoah! It is what it is. Let me see what the weekend has for me.
+- I wanna visit downtown and see how things are there. But before that, I need to finish updating the Appenders first then continue later on with the Loggers! And am also supposed to do a repo for this typo Log4j migration since it had a lot to log especially the SMNPTrapAppenders that Ryan just literally copy-pasted without much attention.
 
 .*.
 .*.
